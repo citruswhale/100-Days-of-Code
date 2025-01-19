@@ -1,1 +1,1 @@
-len("Hello")
+print(type(len("Hello")))
