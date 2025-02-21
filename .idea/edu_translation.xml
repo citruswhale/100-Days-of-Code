@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TranslationProjectSettings">
+    <option name="currentTranslationLanguage" value="French" />
+    <option name="structureTranslation">
+      <map>
+        <entry key="Chinese (Simplified)">
+          <value>
+            <map>
+              <entry key="1044169934" value="步骤 3  " />
+              <entry key="1112857690" value="数据类型  " />
+              <entry key="1178211071" value="第6天  " />
+              <entry key="1179865809" value="变量命名  " />
+              <entry key="1199998776" value="步骤 5  " />
+              <entry key="1206289300" value="步骤 2  " />
+              <entry key="1235620065" value="第3天  " />
+              <entry key="1277708657" value="代码块作用域  " />
+              <entry key="1298813328" value="修复错误  " />
+              <entry key="1304427684" value="剩下的日子在哪里" />
+              <entry key="1307993871" value="使用调试器  " />
+              <entry key="1322657598" value="第11天  " />
+              <entry key="1336938375" value="多个返回值  " />
+              <entry key="1407599981" value="第12天  " />
+              <entry key="1500767241" value="第7天  " />
+              <entry key="1517941988" value="带范围的For循环  " />
+              <entry key="1521411200" value="乐队名字生成器项目  " />
+              <entry key="1566856357" value="使用打印调试  " />
+              <entry key="1592611158" value="取模  " />
+              <entry key="1606163007" value="小费计算器项目  " />
+              <entry key="1639961942" value="嵌套与Elif  " />
+              <entry key="1719245063" value="比大小项目  " />
+              <entry key="1720631818" value="描述问题  " />
+              <entry key="1730117572" value="字符串操作  " />
+              <entry key="1744300585" value="咖啡机项目  " />
+              <entry key="17794001" value="银行家轮盘赌  " />
+              <entry key="17794002" value="索引错误  " />
+              <entry key="17794003" value="列表  " />
+              <entry key="17794004" value="随机模块  " />
+              <entry key="17794005" value="石头剪刀布  " />
+              <entry key="17794006" value="函数  " />
+              <entry key="17794007" value="For Loops  " />
+              <entry key="1783099172" value="第1天  " />
+              <entry key="1791388063" value="数学运算  " />
+              <entry key="1820122666" value="密码生成器项目  " />
+              <entry key="1825435284" value="带输入的函数  " />
+              <entry key="1835831684" value="第9天  " />
+              <entry key="1893623829" value="第16-100  " />
+              <entry key="1902731480" value="命名空间和作用域  " />
+              <entry key="1923669322" value="模拟计算机运行  " />
+              <entry key="195716625" value="位置参数与关键字参数  " />
+              <entry key="1977144334" value="盲拍项目  " />
+              <entry key="199568011" value="藏宝岛项目  " />
+              <entry key="2019991323" value="Caesar Cipher 1  " />
+              <entry key="2038477174" value="第14天  " />
+              <entry key="2083621760" value="第10天  " />
+              <entry key="2088487643" value="Dcostrings  " />
+              <entry key="2107013760" value="全局变量  " />
+              <entry key="216408927" value="计算器项目  " />
+              <entry key="283125148" value="输入  " />
+              <entry key="284492507" value="如果 否则  " />
+              <entry key="342841397" value="逻辑运算符  " />
+              <entry key="367561985" value="最高分  " />
+              <entry key="373790071" value="第5天  " />
+              <entry key="392892348" value="步骤 1  " />
+              <entry key="417849496" value="多个If语句  " />
+              <entry key="424097809" value="第15天  " />
+              <entry key="476425553" value="二十一点项目  " />
+              <entry key="481990002" value="全局常量  " />
+              <entry key="526466484" value="类型错误、检查和转换  " />
+              <entry key="540859013" value="Python披萨  " />
+              <entry key="566117749" value="字典  " />
+              <entry key="625529494" value="打印  " />
+              <entry key="627596553" value="步骤 4  " />
+              <entry key="636283032" value="变量  " />
+              <entry key="644805369" value="第2天  " />
+              <entry key="653216157" value="数字猜谜项目  " />
+              <entry key="671285232" value="第13天  " />
+              <entry key="740423759" value="第4天  " />
+              <entry key="785894060" value="重现错误  " />
+              <entry key="796392606" value="带输出的函数  " />
+              <entry key="881809023" value="第8天  " />
+              <entry key="900654030" value="凯撒密码3  " />
+              <entry key="915669702" value="Caesar Cipher 2  " />
+              <entry key="925561270" value="嵌套列表和字典  " />
+              <entry key="997111556" value="数字操作  " />
+            </map>
+          </value>
+        </entry>
+        <entry key="French">
+          <value>
+            <map>
+              <entry key="1044169934" value="Étape 3  " />
+              <entry key="1112857690" value="Types de données  " />
+              <entry key="1178211071" value="Jour 6  " />
+              <entry key="1179865809" value="Nomination des variables  " />
+              <entry key="1199998776" value="Étape 5  " />
+              <entry key="1206289300" value="Étape 2  " />
+              <entry key="1235620065" value="Jour 3  " />
+              <entry key="1277708657" value="Portée de Blocs  " />
+              <entry key="1298813328" value="Corriger les Erreurs  " />
+              <entry key="1304427684" value="Où sont le reste des jours  " />
+              <entry key="1307993871" value="Utiliser un Débogueur  " />
+              <entry key="1322657598" value="Jour 11  " />
+              <entry key="1336938375" value="Valeurs de Retour Multiples  " />
+              <entry key="1407599981" value="Jour 12  " />
+              <entry key="1500767241" value="Jour 7  " />
+              <entry key="1517941988" value="Boucles For avec Range  " />
+              <entry key="1521411200" value="Projet de générateur de nom de groupe  " />
+              <entry key="1566856357" value="Utiliser Print  " />
+              <entry key="1592611158" value="Modulo  " />
+              <entry key="1606163007" value="Projet de calculateur de pourboire  " />
+              <entry key="1639961942" value="Imbrication et elif  " />
+              <entry key="1719245063" value="Projet Plus Haut ou Plus Bas  " />
+              <entry key="1720631818" value="Décrire le Problème  " />
+              <entry key="1730117572" value="Manipulation de chaînes  " />
+              <entry key="1744300585" value="Projet Machine à Café  " />
+              <entry key="17794001" value="Roulette du Banquier  " />
+              <entry key="17794002" value="IndexError  " />
+              <entry key="17794003" value="Listes  " />
+              <entry key="17794004" value="Module Random  " />
+              <entry key="17794005" value="Pierre Feuille Ciseaux  " />
+              <entry key="17794006" value="Fonctions  " />
+              <entry key="17794007" value="Boucles For  " />
+              <entry key="1783099172" value="Jour 1  " />
+              <entry key="1791388063" value="Opérations mathématiques  " />
+              <entry key="1820122666" value="Projet générateur de mot de passe  " />
+              <entry key="1825435284" value="Fonctions avec des entrées  " />
+              <entry key="1835831684" value="Jour 9  " />
+              <entry key="1893623829" value="Jour 16-100  " />
+              <entry key="1902731480" value="Espaces de Noms et Portée  " />
+              <entry key="1923669322" value="Jouer à l'Ordinateur  " />
+              <entry key="195716625" value="Arguments positionnels contre arguments nommés  " />
+              <entry key="1977144334" value="Projet Vente Aux Enchères  " />
+              <entry key="199568011" value="Projet Île au trésor  " />
+              <entry key="2019991323" value="Chiffrement César 1  " />
+              <entry key="2038477174" value="Jour 14  " />
+              <entry key="2083621760" value="Jour 10  " />
+              <entry key="2088487643" value="Dcostrings  " />
+              <entry key="2107013760" value="Variables Globales  " />
+              <entry key="216408927" value="Projet Calculatrice  " />
+              <entry key="283125148" value="Entrées  " />
+              <entry key="284492507" value="Si Sinon  " />
+              <entry key="342841397" value="Opérateurs logiques  " />
+              <entry key="367561985" value="Score le plus élevé  " />
+              <entry key="373790071" value="Jour 5  " />
+              <entry key="392892348" value="Étape 1  " />
+              <entry key="417849496" value="Multiples Si  " />
+              <entry key="424097809" value="Jour 15  " />
+              <entry key="476425553" value="Projet Blackjack  " />
+              <entry key="481990002" value="Constantes Globales  " />
+              <entry key="526466484" value="Erreur de type, vérification et conversion  " />
+              <entry key="540859013" value="Pizza Python  " />
+              <entry key="566117749" value="Dictionnaires  " />
+              <entry key="625529494" value="Impression  " />
+              <entry key="627596553" value="Étape 4  " />
+              <entry key="636283032" value="Variables  " />
+              <entry key="644805369" value="Jour 2  " />
+              <entry key="653216157" value="Projet Devinette de Nombre  " />
+              <entry key="671285232" value="Jour 13  " />
+              <entry key="740423759" value="Jour 4  " />
+              <entry key="785894060" value="Reproduire le Bug  " />
+              <entry key="796392606" value="Fonctions avec Sorties  " />
+              <entry key="881809023" value="Jour 8  " />
+              <entry key="900654030" value="Chiffre de César 3  " />
+              <entry key="915669702" value="Chiffrement César 2  " />
+              <entry key="925561270" value="Listes et Dictionnaires Imbriqués  " />
+              <entry key="997111556" value="Manipulation des nombres  " />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="translationVersions">
+      <map>
+        <entry key="Chinese (Simplified)" value="535" />
+        <entry key="French" value="539" />
+      </map>
+    </option>
+  </component>
+</project>
