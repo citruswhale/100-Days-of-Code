@@ -1,5 +1,3 @@
-import random
-word_list = ["aardvark", "baboon", "camel"]
 
 # TODO-1 - Randomly choose a word from the word_list and assign it to a variable called chosen_word. Then print it.
 
@@ -13,8 +11,119 @@ word_list = ["aardvark", "baboon", "camel"]
 # number of wrong guesses
 # freq array to verify whether the word has been guessed or not.
 
+#vars
+import random
+word_list = ["aardvark", "baboon", "camel"]
+has_won = False
 chosen_word = word_list[random.randint(0, len(word_list)-1)]
-print(chosen_word)
+guessed_word = []
+wrong_guesses = 0
+right_guesses = 0
+total_guesses = 6
+letter_verification = [False]*26
+letter_indices = [[] for _ in range(26)]
+wrong_guess_pics = [
+    '''
+      +---+
+      |   |
+          |
+          |
+          |
+          |
+    =========
+    ''',
+    '''
+      +---+
+      |   |
+      O   |
+          |
+          |
+          |
+    =========
+    ''',
+    '''
+      +---+
+      |   |
+      O   |
+      |   |
+          |
+          |
+    =========
+    ''',
+    '''
+      +---+
+      |   |
+      O   |
+     /|   |
+          |
+          |
+    =========
+    ''',
+    '''
+      +---+
+      |   |
+      O   |
+     /|\  |
+          |
+          |
+    =========
+    ''',
+    '''
+      +---+
+      |   |
+      O   |
+     /|\  |
+     /    |
+          |
+    =========
+    ''',
+    '''
+      +---+
+      |   |
+      O   |
+     /|\  |
+     / \  |
+          |
+    =========
+    '''
+]
+
+# pre-req
+for i in range (0, len(chosen_word)):
+    guessed_word += '_'
+
+for i in range (0, len(chosen_word)):
+    letter_indices[ord(chosen_word[i])-ord('a')].append(i)
+
+# launch
+while wrong_guesses < total_guesses:
+    print("Word to guess: " + ''.join(guessed_word) + "\n")
+    letter = input("Guess a letter: ")
+    if len(letter_indices[ord(letter)-ord('a')]) > 0:
+        if letter_verification[ord(letter)-ord('a')]:
+            print("You've already guessed " + letter + "." + "\n")
+        else:
+            letter_verification[ord(letter)-ord('a')] = True
+            indices = letter_indices[ord(letter)-ord('a')]
+            print(indices)
+            for i in range(0, len(indices)):
+                right_guesses += 1
+                guessed_word[indices[i]] = letter
+            if right_guesses == len(chosen_word):
+                has_won = True
+        print(''.join(guessed_word) + "\n")
+        if has_won:
+            break
+    else:
+        wrong_guesses += 1
+        print("You guessed " + letter + ", that's not in the word. You lose a life." + "\n")
+    print(wrong_guess_pics[wrong_guesses] + "\n")
+    print("****************************" + str(6-wrong_guesses) + "/6 LIVES LEFT****************************" + "\n")
+
+if not has_won:
+    print("***********************IT WAS " + chosen_word + "! YOU LOSE**********************" + "\n")
+else:
+    print("You win." + "\n")
 
 # CPP Version
 # #include<bits/stdc++.h>
